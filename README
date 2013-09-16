@@ -1,1 +1,2 @@
-This file was created by IntelliJ IDEA 12.1.4 for binding GitHub repository
+A GWT lib used for requesting worpdress's content, that helps to make wordpress themplate. 
+You must install "JSON API" plugin in your wordpress to make this lib works
